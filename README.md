@@ -65,7 +65,7 @@ A Python package for generating payment transactions compliant with the Bakong K
 
 - Python3
 - A Bakong account with full KYC verification
-- A Bakong developer token (register here: [https://api-bakong.nbc.gov.kh/register/](https://api-bakong.nbc.gov.kh/register/) or RBK Token: [https://bakongrelay.com/](https://bakongrelay.com/))
+- A Bakong developer token (register here: [https://checkout-sandbox.payway.com.kh/api/payment-gateway/v1/payments](https://checkout-sandbox.payway.com.kh/api/payment-gateway/v1/payments) or RBK Token: [https://bakongrelay.com/](https://bakongrelay.com/))
 - A VPS or hosting service located in Cambodia or use RBK Token.
 
 ## 📦 Installation
